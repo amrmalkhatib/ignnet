@@ -17,4 +17,4 @@ This repository contains the implementation of IGNNet (Interpretable Graph Neura
 
 
 ## **Citation:**
-Alkhatib, A., Ennadir, S., Bostr ̈om, H., Vazirgiannis, M.: Interpretable graph neural networks for tabular data (2023). https://doi.org/10.48550/arXiv.2308.08945, https://arxiv.org/abs/2308.08945v2
+Alkhatib, A., Ennadir, S., Boström, H., Vazirgiannis, M.: Interpretable graph neural networks for tabular data (2023). https://doi.org/10.48550/arXiv.2308.08945, https://arxiv.org/abs/2308.08945v2
