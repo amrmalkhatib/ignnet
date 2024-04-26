@@ -6,7 +6,7 @@ This repository contains the implementation of IGNNet (Interpretable Graph Neura
 ## **Usage:**
 1. Clone the Repository: Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/username/IGNNet.git
+   git clone https://github.com/amrmalkhatib/IGNNet.git
    ```
 2. Install Dependencies: Ensure that you have the necessary dependencies installed. You can install them using `pip`:
    ```
