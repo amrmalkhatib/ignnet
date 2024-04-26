@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+.idea
+__pycache__
+source_code/abalone/epoch[220]-0.805.optm
+source_code/abalone/ognnet-epoch[131]-0.807.optm
